@@ -14,11 +14,11 @@ function evenOrOddIterator(){
 function evenOrOddIteratorWhile(){
   var i = 0;
   while(i < 11){
-    i%2===0 ? console.log(i + " is even") : console.log(i+" is odd");
+    i%2===0 ? console.log(i + " is even") : console.log(i+" is odd"); //ternary statement
     i++;
   }
 }
-evenOrOddIteratorWhile();
+//evenOrOddIteratorWhile();
 
 // Write a for loop that will iterate from 0 to 10. For each iteration of the for loop, it will multiply the number by 9 and log the result (e.g. "2 * 9 = 18").
 //
