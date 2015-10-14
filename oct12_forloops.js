@@ -59,3 +59,14 @@ function gradeAssigner(){
   }
 }
 //gradeAssigner();
+
+// function gradeAssignerOneLine(){
+//   for(var i = 100; i > 59; i--){
+//     for(var j = 100; j > 59; j-=10){
+//       if(i <= j && i > j-11){
+//         console.log("Your grade of " + i +" is between " + j + " and "+ (j-11));
+//       }
+//     }
+//   }
+// }
+// gradeAssignerOneLine();
